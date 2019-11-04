@@ -52,7 +52,6 @@ The mirror also performs other functionalities like <br />
 ## Final interface gif:
 ![p1 6-2](https://user-images.githubusercontent.com/18117167/68097550-3c724680-fe7d-11e9-961a-5b3b3f663d04.gif)
 
-
 ## Why our design is different:
 * Applied Golden rules of interface design principles 
 * Adhered to the less than 7 rule and rule of thirds
