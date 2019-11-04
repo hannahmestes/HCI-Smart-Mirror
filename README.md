@@ -50,7 +50,7 @@ The mirror also performs other functionalities like <br />
 * Drag and drop widget icons 
 
 ## Final interface gif:
-![ezgif com-optimize (8)](https://user-images.githubusercontent.com/18117167/68093300-d1634880-fe59-11e9-9662-84fe64e5f309.gif)
+![p1 6-2](https://user-images.githubusercontent.com/18117167/68097550-3c724680-fe7d-11e9-961a-5b3b3f663d04.gif)
 
 
 ## Why our design is different:
