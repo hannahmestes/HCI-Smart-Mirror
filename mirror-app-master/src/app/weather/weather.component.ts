@@ -54,9 +54,9 @@ export class WeatherComponent implements OnInit {
         semi = s.loadFont('../../assets/SF-Pro-Display-Semibold.otf');
         bold = s.loadFont('../../assets/SF-Pro-Display-Bold.otf');
 
-        thunderstorm = s.loadImage("https://i.imgur.com/R7kd3Gu.png");
+        thunderstorm = s.loadImage("assets/thunder.png");
         drizzle = s.loadImage("https://i.imgur.com/ytCplOo.png");
-        rain = s.loadImage("https://i.imgur.com/WvuDESn.png");
+        rain = s.loadImage("assets/rain.png");
         snow = s.loadImage("https://i.imgur.com/qVI31r6.png");
         mist = s.loadImage("https://i.imgur.com/legLz93.png");
         smoke = s.loadImage("https://i.imgur.com/bRhsaSw.png");
@@ -98,7 +98,7 @@ export class WeatherComponent implements OnInit {
 
         if (weather === 'Thunderstorm')
          {
-           s.image(thunderstorm, -10, 80, 320, 330);
+           s.image(thunderstorm, 100, -10, 230, 230);
          }
         else if(weather === 'Drizzle')
          {
@@ -106,7 +106,7 @@ export class WeatherComponent implements OnInit {
          }
         else if(weather === 'Rain')
          {
-           s.image(rain, 10, 110, 280, 270);
+           s.image(rain, 100, -10, 230, 230);
          }
         else if(weather === 'Snow')
          {

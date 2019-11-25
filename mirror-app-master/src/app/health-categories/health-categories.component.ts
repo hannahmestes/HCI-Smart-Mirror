@@ -15,10 +15,10 @@ import {
   animations: [
     trigger('clicked', [
       state('last-clicked', style({
-        backgroundColor: 'rgb(155,51,255,0.6)',
+        opacity: '1'
       })),
       state('not-clicked', style({
-        backgroundColor: 'rgb(0,0,0,0.5)',
+        opacity: '1'
       })),
       transition('last-clicked <=> not-clicked', [
         animate('.2s ease-in')

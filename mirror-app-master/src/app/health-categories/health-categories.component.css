@@ -20,11 +20,52 @@
     width: 55px;
     height: 55px;
     margin-top: 50px;
+    background-color: rgba(69, 46, 46, 0.6);
+    color: white;
   }
   
-  .health-icon{
+  .sleep-button{
     position: relative;
     color: white;
+    background-color: rgba(255, 5, 5, 0.6);
+    border-radius: 10px;
+    width: 55px;
+    height: 55px;
+    margin-top: 50px;
+
+  }
+
+  .activity-button{
+    position: relative;
+    color: white;
+    background-color: rgba(68, 5, 255, 0.6);
+    border-radius: 10px;
+    width: 55px;
+    height: 55px;
+    margin-top: 50px;
+
+  }
+
+  .weight-button{
+    position: relative;
+    color: white;
+    background-color: rgba(5, 255, 197, 0.6);
+    border-radius: 10px;
+    width: 55px;
+    height: 55px;
+    margin-top: 50px;
+
+  }
+
+  .mirror-button{
+    position: relative;
+    color: white;
+    background-color: rgba(68, 255, 5, 0.6);
+    border-radius: 10px;
+    width: 55px;
+    height: 55px;
+    margin-top: 50px;
+
   }
   
   .health-text{

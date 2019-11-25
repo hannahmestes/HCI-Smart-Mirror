@@ -15,9 +15,9 @@ export class SleepComponent implements OnInit {
 
 
   public colors = [
-    {backgroundColor: 'rgb(54,51,255,0.4)',
-    borderColor: 'rgb(54,51,255,0.8)',
-    pointBackgroundColor: 'rgb(54,51,255,0.4)'}
+    {backgroundColor: 'rgba(193, 66, 66, 0.4)',
+    borderColor: 'rgba(193, 66, 66, 0.7)',
+    pointBackgroundColor: 'rgba(255, 5, 5, 0.4)'}
   ];
 
   public lineChartPlugins = [pluginDataLabels];

@@ -53,6 +53,7 @@ export class ControlComponent implements OnInit {
         s.image(img_black_tint, 3*80, 5, 60, 60);
         s.image(images[2], 253, 18, 35, 35);
 
+        s.text("Katrina", 4*80+8, 40);
         s.image(img_black_tint, 4*80, 5, 60, 60);
       };
 
