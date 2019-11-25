@@ -15,7 +15,7 @@ export class WeightComponent implements OnInit {
 
   public colors = [
     {backgroundColor: 'rgb(54,51,255,0.4)',
-    borderColor: 'rgb(54,51,255,0.8)',
+    borderColor: 'rgba(5, 255, 197, 0.6)',
     pointBackgroundColor: 'rgb(54,51,255,0.4)'}
   ];
 

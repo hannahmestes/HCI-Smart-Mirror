@@ -14,8 +14,8 @@ export class MirrorTimeComponent implements OnInit {
   }
 
   public colors = [
-    {backgroundColor: 'rgb(54,51,255,0.4)',
-    borderColor: 'rgb(54,51,255,0.8)',}
+    {backgroundColor: ' rgba(68, 255, 5, 0.6)',
+    borderColor: ' rgba(68, 255, 5, 0.6)',}
   ];
 
   public barChartPlugins = [pluginDataLabels];
