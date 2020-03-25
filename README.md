@@ -59,7 +59,7 @@ The mirror also performs other functionalities like <br />
 * Use the interface in light and dark mode
 
 ## Presentation page:
-[Link](https://hannahmestes.github.io/P1.6/)
+[Link](https://hannahmestes.github.io/HCI-Smart-Mirror/)
 
 ## Github repository link:
 [Link](https://github.com/hannahmestes/P1.6)
